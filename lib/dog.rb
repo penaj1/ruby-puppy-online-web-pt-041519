@@ -14,7 +14,7 @@ class Dog
   end
 
   def self.all
-    @all.sort
+    @@all.sort
   end
 
 end
