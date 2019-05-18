@@ -13,8 +13,7 @@ class Dog
     @@all.clear
   end
 
-  def self.all
-    @name
+def 
   end
 
 end
